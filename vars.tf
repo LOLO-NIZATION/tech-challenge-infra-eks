@@ -3,7 +3,7 @@ variable "region_default" {
 }
 
 variable "project_name" {
-  default = "EKS-FIAP"
+  default = "FIAP"
 }
 
 variable "lab_role" {
