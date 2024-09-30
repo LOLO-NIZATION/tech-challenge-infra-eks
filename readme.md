@@ -4,7 +4,7 @@
 
 ### Considerações do AWS Academy
 
-1 - A sessão dura 4h, ao fim dessa sessão os recursos não serão excluídos, crie uma nova sessão e aplique o `terraform destroy` para evitar gastos;;
+1 - A sessão dura 4h, ao fim dessa sessão os recursos não serão excluídos, crie uma nova sessão e aplique o `terraform destroy` para evitar gastos;
 
 2 - Assim como a sessão, as credenciais: AccessKey, SecretKey e SessionToken, também duram 4h, depois desse tempo, precisa entrar no Academy novamente e pegar os novos valores e atualizar o arquivo de credenciais da aws local;
 
