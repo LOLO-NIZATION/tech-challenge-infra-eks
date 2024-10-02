@@ -22,7 +22,7 @@ Neste exemplo, utilizamos o tipo de conexão via LoadBalancer em nosso Service, 
 - `terraform fmt` = comando responsável por formatar nossos arquivos .tf corrigindo a identação;
 - `terraform plan` = comando responsável por gerar um inventário do que será criado/alterado/deletado na infra;
 - `terraform apply` = comando responsável por executar a ação criação/alteração/exclusão de recursos na cloud;
-- `terraform destroy` = comando responsável por deletar todo recurso criado que foi definido nos arquivos .tf
+- `terraform destroy` = comando responsável por deletar todo recurso criado que foi definido nos arquivos .tf;
 
 ### k8s
 
